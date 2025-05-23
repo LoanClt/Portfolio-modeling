@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('My First Streamlit')
+st.title('My First')
 st.write('Welcome to your first Streamlit app!')
 
 number = st.slider('Pick a number', 0, 100, 50)
